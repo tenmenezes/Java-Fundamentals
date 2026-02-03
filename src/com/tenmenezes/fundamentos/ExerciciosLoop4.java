@@ -1,7 +1,10 @@
+package com.tenmenezes.fundamentos;
+
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class ExerciciosLoop4 {
+
+    static void main(String[] args) {
 
         /*
         *

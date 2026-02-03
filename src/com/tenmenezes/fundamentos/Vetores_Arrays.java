@@ -2,17 +2,17 @@ package com.tenmenezes.fundamentos;
 
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class Vetores_Arrays {
+
+    static void main(String[] args) {
 
         /*
-        *
-        * Preenchimento manual + leitura
-        * Crie um array de int com 5 posições.
-        * Preencha manualmente com valores diferentes e mostre:
-        *   todos os valores
-        *   o tamanho do array
-        */
+         * Preenchimento manual + leitura
+         * Crie um array de int com 5 posições.
+         * Preencha manualmente com valores diferentes e mostre:
+         *   todos os valores
+         *   o tamanho do array
+         */
 
 //        int[] numeros = new int[5];
 //
@@ -55,10 +55,10 @@ public class Main {
 //        System.out.println("A soma dos valores é: " + soma);
 
         /*
-        * Usando um array de `double` com notas de alunos:
-        *   - calcule a média
-        *   - mostre a média no final
-        */
+         * Usando um array de `double` com notas de alunos:
+         *   - calcule a média
+         *   - mostre a média no final
+         */
 
 //        double[] notaAlunos = new double[3];
 //
@@ -265,10 +265,10 @@ public class Main {
         System.out.println(" ");
 
         for (int i = 0; i < valores.length; i++) {
-             System.out.print("Valor " + (i+1) + ": ");
-             valores[i] = scan.nextInt();
+            System.out.print("Valor " + (i+1) + ": ");
+            valores[i] = scan.nextInt();
 
-             if (valores[i] >= 1 && valores[i] <= 10) { contador[valores[i] - 1]++; }
+            if (valores[i] >= 1 && valores[i] <= 10) { contador[valores[i] - 1]++; }
 
         }
 

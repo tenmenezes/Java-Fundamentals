@@ -2,22 +2,23 @@ package com.tenmenezes.fundamentos;
 
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class ExerciciosLoop3 {
+
+     static void main(String[] args) {
 
         /*
-        * 1)
-        * Faça um programa que peça um número inteiro e determine se ele é ou não um número primo.
-        * Um número primo é aquele que é divisível somente por ele mesmo e por 1.
-        */
+         * 1)
+         * Faça um programa que peça um número inteiro e determine se ele é ou não um número primo.
+         * Um número primo é aquele que é divisível somente por ele mesmo e por 1.
+         */
 
         /*
-        * Não preciso guardar o resultado do cálculo, preciso apenas
-        * guardar se aqueles números são primos ou não,
-        * os únicos números que são verificados como primo é o próprio número e 1
-        * caso todos os outros dêem resto igual a 0, o loop para pois achou
-        * um valor que confirma aquele número como não-primo
-        */
+         * Não preciso guardar o resultado do cálculo, preciso apenas
+         * guardar se aqueles números são primos ou não,
+         * os únicos números que são verificados como primo é o próprio número e 1
+         * caso todos os outros dêem resto igual a 0, o loop para pois achou
+         * um valor que confirma aquele número como não-primo
+         */
 
 //        Scanner scan = new Scanner(System.in);
 //

@@ -1,6 +1,6 @@
 package com.tenmenezes.fundamentos;
 
-public class Main {
+public class Argumentos {
 
     public static void main(String[] args) {
 

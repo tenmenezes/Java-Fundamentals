@@ -1,7 +1,8 @@
 package com.tenmenezes.fundamentos;
 
-public class Main {
-    public static void main(String[] args) {
+public class MatrizTridimensional {
+
+    static void main(String[] args) {
 
         int[][][] matrizTridimensional = new int[3][3][3];
 

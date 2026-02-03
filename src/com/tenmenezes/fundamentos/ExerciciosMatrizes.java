@@ -2,8 +2,9 @@ package com.tenmenezes.fundamentos;
 
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class ExerciciosMatrizes {
+
+    static void main(String[] args) {
 
         System.out.println("Exercicios com matriz\n");
 

@@ -1,8 +1,8 @@
 package com.tenmenezes.fundamentos;
 
-public class Main {
+public class Matrizes {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
 
         // Matriz armazenando 4 notas por aluno com 30 alunos
         double[][] notasAlunos = new double[3][4];

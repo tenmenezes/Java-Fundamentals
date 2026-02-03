@@ -2,13 +2,14 @@ package com.tenmenezes.fundamentos;
 
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class ExerciciosLoop2 {
+
+    static void main(String[] args) {
 
         /*
-        * 1)
-        * Altere o programa anterior para mostrar no final a soma dos números.
-        */
+         * 1)
+         * Altere o programa anterior para mostrar no final a soma dos números.
+         */
 
 //        Scanner scan = new Scanner(System.in);
 //

@@ -2,31 +2,32 @@ package com.tenmenezes.fundamentos;
 
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
-        
+public class Exercicios_Classes_Metodos {
+
+     static void main(String[] args) {
+
         /*
-        * 1)
-        * Crie uma classe chamada Lampada que represente uma lâmpada comum.
-        *
-        * A classe deve possuir:
-        * - Um atributo que indique se a lâmpada está ligada ou desligada.
-        *
-        * Métodos:
-        * - Um métodosdv para ligar a lâmpada.
-        * - Um métododsv para desligar a lâmpada.
-        * - Um métodosvsd sem retorno que exiba o estado atual da lâmpada.
-        *
-        * Programa principal:
-        * - Crie um objeto do tipo Lampada.
-        * - Ligue a lâmpada.
-        * - Exiba o estado.
-        * - Desligue a lâmpada.
-        * - Exiba o estado novamente.
-        *
-        * 📌 Objetivo: entender atributos + métodos sem retorno.
-        *
-        */
+         * 1)
+         * Crie uma classe chamada Lampada que represente uma lâmpada comum.
+         *
+         * A classe deve possuir:
+         * - Um atributo que indique se a lâmpada está ligada ou desligada.
+         *
+         * Métodos:
+         * - Um métodosdv para ligar a lâmpada.
+         * - Um métododsv para desligar a lâmpada.
+         * - Um métodosvsd sem retorno que exiba o estado atual da lâmpada.
+         *
+         * Programa principal:
+         * - Crie um objeto do tipo Lampada.
+         * - Ligue a lâmpada.
+         * - Exiba o estado.
+         * - Desligue a lâmpada.
+         * - Exiba o estado novamente.
+         *
+         * 📌 Objetivo: entender atributos + métodos sem retorno.
+         *
+         */
 
 //        Lampada lampada = new Lampada();
 //
